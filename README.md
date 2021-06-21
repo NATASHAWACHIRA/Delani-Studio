@@ -25,6 +25,7 @@ The creation of this project requires installation of a text editor such as ATOM
 The use of j-query as well as javascript functions
 
 The use of css is highly used to enhance the appearance of the page
+
 # Contributors:![image](https://user-images.githubusercontent.com/85103605/121559876-abcbf700-ca1f-11eb-80f2-f83599cf9741.png)
 Up to this point, there are by far no contributors to the making and design of this website. Therefore marking my first website during my course program at Moringa School on the 12th of June 2021.
 
