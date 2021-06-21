@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+.welcome {
+  background-image: url("../image/h_img.jpg");
+  color: white;
+}
+.services {
+  background-image: url("../image/s_image.jpg");
+  background-size: cover;
+  height: 300px;
+  background-repeat: no-repeat;
+  color: white;
+}
+#text {
+  display: none;
+}
+
+
+.container {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 50px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.containers {
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+  grid-gap: 80px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.textalign {
+  text-align: center;
+}
+.contactus {
+  background-image: url("../image/c_image.jpg");
+  color: white;
+
+}
+form{
+  width: 700px;
+  max-width: 90%;
+}
+::placeholder{
+  color: rgb(204, 204, 204);
+}
+form input{
+  width:49%;
+}
+form input, form textarea{
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 7px;
+}
+form textarea{
+  margin-top: 20px;
+  width: 98.8%;
+}
