@@ -32,8 +32,10 @@ Up to this point, there are by far no contributors to the making and design of t
 # DESCRIPTION
 Delani studio is where amazing people are making amazing designs.One gets an apportunity to work with creative collaborators to translate goals into creative solutions
 
+![image](https://user-images.githubusercontent.com/85103605/122742474-a62ba800-d28e-11eb-9070-1f0315d49c3b.png)
+![image](https://user-images.githubusercontent.com/85103605/122742600-c9eeee00-d28e-11eb-8900-6e3fa10ae1d0.png)
 
-![image](https://user-images.githubusercontent.com/85103605/121933830-3ded3b80-cd4f-11eb-96b3-cb14d36c9585.png)
+
 
 #ACKNOWLEDGEMENT
 I would like to thank God for his providence of wisdom through the process of creation of this project.
