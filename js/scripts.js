@@ -1,24 +1,60 @@
-$(document).ready(function () {
-    $("#hide1").hide();
-    $("#design").click(function () {
-        $("#hide1").toggle(700);
-    });
-    $("#show").click(function () {
-        $("#hide1").show(700);
-    });
+// alert("Natasha")
 
-    $("#hide2").hide();
-    $("#development").click(function () {
-        $("#hide2").toggle(700);
-    });
-    $("#show").click(function () {
-        $("#development").show(700);
-    });
-    $("#hide3").hide();
-    $("#products-management").click(function () {
-        $("#hide3").toggle(500;
-    });
-    $("#show").click(function () {
-        $("#products-management").show(700);
-    });
+
+
+$(document).ready(function() {
+  $("#work1").mouseover(function(){
+    $("#overlay").show();
+  }).mouseout(function(){
+    $("#overlay").hide();
+  });
 });
+$(document).ready(function(){
+  $("#work2").mouseover(function(){
+    $("#overlay2").show();
+  }).mouseout(function(){
+    $("#overlay2").hide();
+  });
+});
+$(document).ready(function(){
+  $("#work3").mouseover(function(){
+    $("#overlay3").show();
+  }).mouseout(function(){
+    $("#overlay3").hide();
+  });
+});
+$(document).ready(function(){
+  $("#work4").mouseover(function(){
+    $("#overlay4").show();
+  }).mouseout(function(){
+    $("#overlay4").hide();
+  });
+});
+
+$(document).ready(function(){
+  $("#work5").mouseover(function(){
+    $("#overlay5").show();
+  }).mouseout(function(){
+    $("#overlay5").hide();
+  });
+  $("#work6").mouseover(function(){
+    $("#overlay6").show();
+  }).mouseout(function(){
+    $("#overlay6").hide();
+  });
+  $("#work7").mouseover(function(){
+    $("#overlay7").show();
+  }).mouseout(function(){
+    $("#overlay7").hide();
+  });
+  $("#work8").mouseover(function(){
+    $("#overlay8").show();
+  }).mouseout(function(){
+    $("#overlay8").hide();
+  });
+});
+
+
+function thankYou() {
+    alert("Thank You we have received your message.");
+  };
