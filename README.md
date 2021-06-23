@@ -37,7 +37,7 @@ Delani studio is where amazing people are making amazing designs.One gets an app
 
 
 
-#ACKNOWLEDGEMENT
+# ACKNOWLEDGEMENT
 I would like to thank God for his providence of wisdom through the process of creation of this project.
 ###  LICENCE ®️ 
 ## MIT License
